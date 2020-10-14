@@ -67,7 +67,7 @@
 }
 
 #page-map .map-popup {
-  margin-left: 180px;
+  /* margin-left: 180px; */
 }
 
 #page-map .map-popup .leaflet-popup-content-wrapper {
